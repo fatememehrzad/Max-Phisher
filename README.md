@@ -1,1 +1,2 @@
 # mehrza
+sudo mehrza
